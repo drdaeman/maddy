@@ -5,6 +5,7 @@ go 1.19
 require (
 	blitiri.com.ar/go/spf v1.5.1
 	github.com/GehirnInc/crypt v0.0.0-20230320061759-8cc1b52080c5
+	github.com/c0va23/go-proxyprotocol v0.9.1
 	github.com/caddyserver/certmagic v0.20.0
 	github.com/emersion/go-imap v1.2.2-0.20220928192137-6fac715be9cf
 	github.com/emersion/go-imap-compress v0.0.0-20201103190257-14809af1d1b9
